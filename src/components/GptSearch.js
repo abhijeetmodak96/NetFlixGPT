@@ -6,7 +6,7 @@ import { backgroundPhoto } from "../utils/constants";
 const GptSearch = () => {
   return (
     <>
-      <div className="fixed -z-10 bg-gradient-to-t from-black">
+      <div className="fixed -z-10 bg-gradient-to-t from-black ">
         <img
           className="h-screen object-cover"
           src={backgroundPhoto}
